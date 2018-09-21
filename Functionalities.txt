@@ -1,0 +1,24 @@
+﻿->Create Database username and details about uploads
+->Sign Up
+->login
+-->Profile
+---->Create Database of Shelves with Owner info and list of collections
+---->Create Database of Collections with Collection info and List of topics
+---->Create Database of Topics with Topic info and list of media link paths and sequence number
+
+---->Add Shelf
+------>Add Collection
+------->Add Story with story type until story type is over
+--------->Upload story as image, Text or html
+------>Edit Collection
+---->View Shelf
+----->Download Collection(s) add(to the Collection Borrows List)
+
+
+
+
+(Not so important)
+>Create Branch
+->Add Links to your Colection or Topic
+
+
