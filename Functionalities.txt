@@ -13,6 +13,7 @@
 ------>Edit Collection
 ---->View Shelf
 ----->Download Collection(s) add(to the Collection Borrows List)
+----->Like Collection(s) add(to the Collection Borrows List)
 
 
 
