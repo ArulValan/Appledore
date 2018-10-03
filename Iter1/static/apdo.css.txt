@@ -1,0 +1,86 @@
+h1{
+	float: center;
+	color: white;
+	margin-left: 40vw;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 4vw;
+}
+h2{
+	color: white;
+	margin-left: 38vw;
+	font-size: 3vw;
+}
+button{
+  padding:16px 32px;
+  font-family:helvetica;
+  font-size:16px;
+  font-weight:100;
+  color:#fff;
+  background: #587286;
+  border:0;
+  font-weight:100;
+  margin-left: 3vw;
+  margin-top: 2vw;
+  float: right;
+}
+button:hover{
+  background: #3B5C76;
+}
+.p1{
+  color: white;
+  font-size: 2vw;
+}
+.square{
+	background-color:none;
+	border: groove;
+	border-radius: 5vw;
+	float: center;
+  position: absolute;
+  left: 15%; margin-left: 0; width: 50%; height: 100%;
+  padding-top: 5vw;
+  margin-top: 10vw;
+  padding-right: 10vw;
+  padding-left: 10vw;
+	 
+}
+.square1{
+	background-color:none;
+	border: groove;
+	border-radius: 5vw;
+	float: center;
+  position: absolute;
+  left: 5%; margin-left: 0; width: 70%; height: 200%;
+  padding-top: 5vw;
+  margin-top: 10vw;
+  padding-right: 10vw;
+  padding-left: 10vw;
+	 
+}
+.a1{
+	color: white;
+	margin-left: 2vw;
+}
+.i1{
+	font-size: 3vw;
+	 color: white;
+	 margin-top: 2vw;
+}
+.p2{
+	color: white;
+	margin-left: 13vw;
+	font-size: 3vw;
+	margin-top: 0vw;
+}
+.subsq1{
+	background-color:none;
+	border: groove;
+	border-radius: 5vw;
+	float: center;
+  position: absolute;
+  left: 3.5%; margin-left: 0; width: 70%; height: 20%;
+  padding-top: 5vw;
+  margin-top: 2vw;
+  padding-right: 10vw;
+  padding-left: 10vw;
+	 
+}
